@@ -117,6 +117,9 @@ body {
   font-weight: bold;
 }
 
+.portfolio {
+  text-align: left;
+}
 
 /*
  * Footer
@@ -170,4 +173,8 @@ body {
 
 .mastfoot .inner a + a{
   margin-left: 5px;
+}
+
+.unfix-nav {
+  position: static;
 }
